@@ -18,30 +18,3 @@ public class HelloWorld {
 	}
 
 }
-
-
-/*
-int main(){
- printf(); // cout << 
-}
-
-char main(){
-
-}
-
-void main(){
-
-}
-
-int main(char *argv[], int argc){
-
-}
-
-char main(char *argv[], int argc){
-
-}
-
-void main(char *argv[], int argc){
-
-}
-*/
